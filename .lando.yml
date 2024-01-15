@@ -1,0 +1,6 @@
+name: test-task
+recipe: lamp
+config:
+  php: 8.2
+  database: postgres
+  webroot: .
